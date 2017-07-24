@@ -53,13 +53,6 @@ ViewAnimationCompatUtils.createCircularReveal(cvAdd, cvAdd.getWidth()/2,0, fab.g
 Animator mAnimator = ViewAnimationCompatUtils.createRectReveal( nsv, 0, nsv.getHeight(),ViewAnimationCompatUtils.RECT_TOP);
 
 ```
-###About me
----
-An Android Developer in ZhengZhou.
-
-【[**我的简书地址**](http://www.jianshu.com/users/3c751e06dc32/latest_articles)】
-
-【[**我的CSDN地址**](http://blog.csdn.net/zhangke3016)】
 
 =======
 ###Thanks
